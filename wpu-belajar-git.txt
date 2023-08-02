@@ -2,4 +2,4 @@ belajar git
 - belajar teori dasar
 - belajar github
 - abis itu balik pake git
-- perdalam pengetahuan terkait js
+- kali aja pake gitlab
