@@ -1,0 +1,3 @@
+belajar git
+- belajar teori dasar
+- belajar github
