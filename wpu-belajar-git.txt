@@ -3,3 +3,4 @@ belajar git
   -> bener-bener dari basic
 - belajar github
 - abis itu balik pake git
+- perdalam pengetahuan terkait js
