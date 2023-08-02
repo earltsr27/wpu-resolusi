@@ -2,3 +2,4 @@ belajar git
 - belajar teori dasar
   -> bener-bener dari basic
 - belajar github
+- abis itu balik pake git
